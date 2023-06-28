@@ -1,0 +1,25 @@
+
+  input  {
+    height: 30px;
+    justify-content: center;
+    margin: 10px;
+    width: 200px;
+}
+
+.btn_img {
+        background-color: #fff;
+    border: none;
+    cursor: pointer;
+    height: 80%;
+    margin: auto 10px;
+}
+
+button {
+    margin: 10px;
+}
+
+.saveString {
+    display: flex;
+    flex-direction: row;
+}
+
